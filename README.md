@@ -1,4 +1,4 @@
-#Random Meme Generator
+# Random Meme Generator
 
 A simple Random Meme Generator that fetches and displays memes from various sources. This project is perfect for a quick laugh and can be integrated into other applications or used as a standalone fun tool.
 
